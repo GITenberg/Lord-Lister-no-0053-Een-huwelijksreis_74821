@@ -1,0 +1,41 @@
+_repo: Lord-Lister-no-0053-Een-huwelijksreis_74821
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Matull, Kurt
+    alias: Wangemann, Eduard Carl Otto
+    birthdate: 1872
+    deathdate: 1920
+    gutenberg_agent_id: '40698'
+    url: http://www.gutenberg.org/2009/agents/40698
+    wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
+  - agent_name: Blankensee, Theo von
+    aliases:
+    - Blank, Matthias
+    - Bakensee, Theo
+    - Blakensee, Theo von
+    - Blakensee, Theo
+    birthdate: 1881
+    deathdate: 1928
+    gutenberg_agent_id: '53456'
+    url: http://www.gutenberg.org/2009/agents/53456
+description: ''
+gutenberg_issued: '2024-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74821'
+language: nl
+pgterms:marc905: 20190518130358matull
+pgterms:marc906: '1910'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aNetherlands :$bRoman- Boek- en Kunsthandel, $c1910, pubdate
+  1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lord Lister no. 0053: Een huwelijksreis'
+url: http://www.gutenberg.org/ebooks/74821
