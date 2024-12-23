@@ -1,5 +1,8 @@
 _repo: Lord-Lister-no-0053-Een-huwelijksreis_74821
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Matull, Kurt
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '53456'
     url: http://www.gutenberg.org/2009/agents/53456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74821#Lord-Lister-no-0053-Een-huwelijksreis
 gutenberg_issued: '2024-11-30'
 gutenberg_type: Text
 identifiers:
